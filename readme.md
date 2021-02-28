@@ -16,3 +16,13 @@ Se recomienda crear una organizacion que sea la propitaria del repositorio princ
 
 Para crear uin Fork debes iniciar sesion en GitHub y luego ingresar a la lading page del proyecto del que quieras sacar tu Fork.
 
+## Como trabajar con 2 o mas remotos
+
+Listar Remotos
+'git remote -v'
+
+Agregar remotos 
+'git remote add Edgit https://github.com/Projecto-Practica/EDgit.git'
+
+Eliminar remotos
+'git remote remove Edgit'
